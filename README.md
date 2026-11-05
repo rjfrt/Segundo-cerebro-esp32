@@ -12,9 +12,9 @@ Segundo cérebro no Gemini Notebook (antigo NotebookLM) sobre ESP32 e firmware p
 |---|-------|------|------|----------------|
 | 1 | Documentação oficial do Arduino-ESP32 (Espressif) | Site | https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html | Mantida pela Espressif, fabricante do chip |
 | 2 | Datasheet oficial do ESP32-C3 | PDF | https://www.espressif.com/documentation/esp32-c3_datasheet_en.pdf | Documento técnico oficial, link indicado pelo próprio datasheet |
-| 3 | _Vídeo 1 (achado em aba anônima)_ | YouTube | _colar link_ | _autor, experiência, data_ |
-| 4 | _Vídeo 2_ | YouTube | _colar link_ | _motivo_ |
-| 5 | _Artigo/tutorial de site reconhecido_ | Site | _colar link_ | _motivo_ |
+| 3 | _Vídeo 1 (achado em aba anônima)_ | YouTube | ... |... |
+| 4 | _Vídeo 2_ | YouTube | ... | ... |
+| 5 | _Artigo/tutorial de site reconhecido_ | Site | .... | ... |
 
 Fontes sugeridas pelo Deep Research que descartei: _listar e explicar o porquê_.
 
@@ -64,8 +64,7 @@ Exemplo: "Qual o melhor ESP32 para um robô com câmera?"
 
 ## Link do notebook compartilhado
 
-_colar o link de compartilhamento aqui_
 
 ## O que aprendi
 
-_2 ou 3 frases sobre como escolher fontes e usar a IA para estudar._
+
